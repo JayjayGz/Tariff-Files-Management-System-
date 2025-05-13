@@ -1,0 +1,2 @@
+Phone,USA,Electronics,605.0
+Toyota,China,Cooking set,125.0
